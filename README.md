@@ -6,3 +6,5 @@ O seguinte problema foi descrito no inicio da disciplina de Programação para I
 3. Faça um programa que leia e armazene as informações de 50 corredores que participarão da corrida de São Silvestre no final do ano.
 4. No final do programa você deve exibir o nome e o sexo do campeão da competição
 5. Informe também qual a média do tempo de prova para homens e para mulheres.
+
+Obs: O problema é resolvido utilizando Programação Orientada a Objetos.
